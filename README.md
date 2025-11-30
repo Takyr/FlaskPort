@@ -1,7 +1,7 @@
 # Personal Blog with Python-Flask*
 **Truong Gia Vy**
 
-## Mô Tả
+## Description
 Simple Python-Flask based website to showcase my personal works
 <img width="1454" height="752" alt="Image" src="https://github.com/user-attachments/assets/933e260a-e0c8-4e67-84b7-c4399f46032f" />
 <img width="931" height="814" alt="Image" src="https://github.com/user-attachments/assets/f1b9727d-b874-47d5-8ef5-32c11bccea31" />
