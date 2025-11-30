@@ -23,11 +23,11 @@ Simple Python-Flask based website to showcase my personal works
 ## Install and run the project
 1. Install the repository
 2. Open terminal and move to the project folder
-3. Install the libraries inside requirements file:
+3. Install the libraries inside the **`requirements.txt`** file:
 ```bash
 pip install -r requirements.txt
 ```
-5. Open **`flaskblog.py`** to start the project:
+4. Open **`flaskblog.py`** to start the project:
 ```bash
 python flaskblog.py
 ```
